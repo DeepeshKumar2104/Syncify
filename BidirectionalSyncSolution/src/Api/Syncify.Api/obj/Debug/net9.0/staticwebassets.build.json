@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RgqEq9v8hC0T57shOcSixaJN9XEOotZUVQTfZw1ceTM=",
+  "Source": "Syncify.Api",
+  "BasePath": "_content/Syncify.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

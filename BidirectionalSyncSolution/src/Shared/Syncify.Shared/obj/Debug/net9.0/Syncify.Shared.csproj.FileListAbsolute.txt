@@ -1,0 +1,11 @@
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\bin\Debug\net9.0\Syncify.Shared.deps.json
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\bin\Debug\net9.0\Syncify.Shared.dll
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\bin\Debug\net9.0\Syncify.Shared.pdb
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\Syncify.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\Syncify.Shared.AssemblyInfoInputs.cache
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\Syncify.Shared.AssemblyInfo.cs
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\Syncify.Shared.csproj.CoreCompileInputs.cache
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\Syncify.Shared.dll
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\refint\Syncify.Shared.dll
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\Syncify.Shared.pdb
+D:\BidirectionalSyncSolution\src\Shared\Syncify.Shared\obj\Debug\net9.0\ref\Syncify.Shared.dll

@@ -1,0 +1,11 @@
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\bin\Debug\net9.0\Syncify.Domain.deps.json
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\bin\Debug\net9.0\Syncify.Domain.dll
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\bin\Debug\net9.0\Syncify.Domain.pdb
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\Syncify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\Syncify.Domain.AssemblyInfoInputs.cache
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\Syncify.Domain.AssemblyInfo.cs
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\Syncify.Domain.csproj.CoreCompileInputs.cache
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\Syncify.Domain.dll
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\refint\Syncify.Domain.dll
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\Syncify.Domain.pdb
+D:\BidirectionalSyncSolution\src\Domain\Syncify.Domain\obj\Debug\net9.0\ref\Syncify.Domain.dll

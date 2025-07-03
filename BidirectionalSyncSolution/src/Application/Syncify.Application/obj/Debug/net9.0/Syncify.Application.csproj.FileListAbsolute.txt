@@ -1,0 +1,15 @@
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\bin\Debug\net9.0\Syncify.Application.deps.json
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\bin\Debug\net9.0\Syncify.Application.dll
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\bin\Debug\net9.0\Syncify.Application.pdb
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\bin\Debug\net9.0\Syncify.Domain.dll
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\bin\Debug\net9.0\Syncify.Domain.pdb
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.csproj.AssemblyReference.cache
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.AssemblyInfoInputs.cache
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.AssemblyInfo.cs
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.csproj.CoreCompileInputs.cache
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify..7812C43D.Up2Date
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.dll
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\refint\Syncify.Application.dll
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\Syncify.Application.pdb
+D:\BidirectionalSyncSolution\src\Application\Syncify.Application\obj\Debug\net9.0\ref\Syncify.Application.dll
