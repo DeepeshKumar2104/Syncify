@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj",
+      "projectUniqueName": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj",
       "projectName": "Syncify.Application",
-      "projectPath": "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj",
+      "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\obj\\",
+      "outputPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj": {
-              "projectPath": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj"
+            "D:\\Syncify\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj": {
+              "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj": {}
+    "D:\\Syncify\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj": {}
   },
   "projects": {
-    "D:\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj": {
+    "D:\\Syncify\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj",
+        "projectUniqueName": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj",
         "projectName": "Syncify.Shared",
-        "projectPath": "D:\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj",
+        "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\Syncify.Shared.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\obj\\",
+        "outputPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Shared\\Syncify.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

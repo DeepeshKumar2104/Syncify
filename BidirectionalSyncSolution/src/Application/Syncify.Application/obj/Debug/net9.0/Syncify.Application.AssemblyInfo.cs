@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Syncify.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed77a16a7851d360137d61909853cadd6b1ad5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Syncify.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Syncify.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

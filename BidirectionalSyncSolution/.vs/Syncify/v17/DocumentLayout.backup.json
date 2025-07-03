@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "D:\\BidirectionalSyncSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|d:\\bidirectionalsyncsolution\\src\\infrastructure\\syncify.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|solutionrelative:src\\infrastructure\\syncify.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|d:\\bidirectionalsyncsolution\\src\\infrastructure\\syncify.infrastructure\\repositories\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|solutionrelative:src\\infrastructure\\syncify.infrastructure\\repositories\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|d:\\bidirectionalsyncsolution\\src\\infrastructure\\syncify.infrastructure\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|solutionrelative:src\\infrastructure\\syncify.infrastructure\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\interface\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\interface\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|d:\\bidirectionalsyncsolution\\src\\infrastructure\\syncify.infrastructure\\repositories\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|solutionrelative:src\\infrastructure\\syncify.infrastructure\\repositories\\genricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|d:\\bidirectionalsyncsolution\\src\\domain\\syncify.domain\\awsentities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8628E46-7570-4150-AAD6-77204D026C5D}|src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj|solutionrelative:src\\domain\\syncify.domain\\awsentities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|d:\\bidirectionalsyncsolution\\src\\infrastructure\\syncify.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|solutionrelative:src\\infrastructure\\syncify.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{071E0A5B-E4FB-4A87-BAC0-9D9E5161E52E}|src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj|d:\\bidirectionalsyncsolution\\src\\infrastructure\\syncify.infrastructure\\syncify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,30 +82,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
-              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
-              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Syncify.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Syncify.Infrastructure\\Kafka\\KafkaProducer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:26:53.792Z",
+              "WhenOpened": "2025-07-03T09:51:06.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Project.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Project.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Project.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:31:56.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\EmployeeProject.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\EmployeeProject.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:31:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Employee.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Employee.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:31:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Designation.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Designation.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Designation.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:31:39.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Department.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Department.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Department.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:31:33.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Contact.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Contact.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Contact.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:31:10.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\AuditLog.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\AuditLog.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:30:52.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IUnitofWork.cs",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Interface\\IUnitofWork.cs",
               "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\Interface\\IUnitofWork.cs",
               "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Interface\\IUnitofWork.cs",
               "RelativeToolTip": "src\\Domain\\Syncify.Domain\\Interface\\IUnitofWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T08:25:43.601Z",
               "EditorCaption": ""
@@ -86,40 +209,53 @@
               "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\Interface\\IGenricRepository.cs",
               "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Interface\\IGenricRepository.cs",
               "RelativeToolTip": "src\\Domain\\Syncify.Domain\\Interface\\IGenricRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T08:24:36.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "GenricRepository.cs",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\GenricRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\GenricRepository.cs",
               "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\GenricRepository.cs",
               "RelativeToolTip": "src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\GenricRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T08:23:14.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
+              "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
+              "RelativeToolTip": "src\\Domain\\Syncify.Domain\\AwsEntities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:26:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\UnitOfWork.cs",
               "ToolTip": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeToolTip": "src\\Infrastructure\\Syncify.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T08:17:25.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Syncify.Infrastructure",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj",
@@ -132,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "AwsDbContext.cs",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Persistence\\AwsDB\\AwsDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Syncify.Infrastructure\\Persistence\\AwsDB\\AwsDbContext.cs",
@@ -145,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Syncify.Domain",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj",
               "RelativeDocumentMoniker": "src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj",
@@ -158,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Syncify.Api",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\Syncify.Api.csproj",
               "RelativeDocumentMoniker": "src\\Api\\Syncify.Api\\Syncify.Api.csproj",
@@ -171,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "IDbService.cs",
               "DocumentMoniker": "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Interfaces\\IDbService.cs",
               "RelativeDocumentMoniker": "src\\Application\\Syncify.Application\\Interfaces\\IDbService.cs",

@@ -11,8 +11,8 @@ namespace Syncify.Domain.Interface
 {
     public interface IUnitofWork
     {
-        IGenricRepository<Address> UserDetailRepository { get; }
-        IGenricRepository<Contact> UserCredentialRepository { get; }
+        IGenericRepository<Address> userAddressRepository { get; }
+        IGenericRepository<Contact> UserContactRepository { get; }
         Task<int> SaveChangesAsync();
         Task BeginTransactionAsync();
         Task CommitTransactionAsync();

@@ -4803,11 +4803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\Syncify.Api.csproj",
+      "projectUniqueName": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\Syncify.Api.csproj",
       "projectName": "Syncify.Api",
-      "projectPath": "D:\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\Syncify.Api.csproj",
+      "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\Syncify.Api.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\obj\\",
+      "outputPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Api\\Syncify.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4828,11 +4828,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj": {
-              "projectPath": "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj"
+            "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj": {
+              "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj"
             },
-            "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj": {
-              "projectPath": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj"
+            "D:\\Syncify\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj": {
+              "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj"
             }
           }
         }

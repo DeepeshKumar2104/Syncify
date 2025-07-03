@@ -4720,11 +4720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj",
       "projectName": "Syncify.Infrastructure",
-      "projectPath": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj",
+      "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\Syncify.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\obj\\",
+      "outputPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Infrastructure\\Syncify.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4745,11 +4745,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj": {
-              "projectPath": "D:\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj"
+            "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj": {
+              "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Application\\Syncify.Application\\Syncify.Application.csproj"
             },
-            "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj": {
-              "projectPath": "D:\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj"
+            "D:\\Syncify\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj": {
+              "projectPath": "D:\\Syncify\\BidirectionalSyncSolution\\src\\Domain\\Syncify.Domain\\Syncify.Domain.csproj"
             }
           }
         }

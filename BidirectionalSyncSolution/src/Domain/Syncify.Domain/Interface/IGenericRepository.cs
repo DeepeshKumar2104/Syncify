@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Syncify.Domain.Interface
 {
-    public interface IGenricRepository<T> where T : class
+    public interface IGenericRepository<T> where T : class
     {
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
