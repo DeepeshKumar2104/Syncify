@@ -5,7 +5,7 @@ namespace Syncify.Domain.AwsEntities;
 
 public partial class Address
 {
-    public Guid AddressId { get; set; }
+    public Guid AddressId { get; set; }= Guid.NewGuid();
 
     public Guid EmployeeId { get; set; }
 

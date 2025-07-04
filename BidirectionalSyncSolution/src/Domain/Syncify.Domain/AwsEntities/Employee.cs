@@ -5,7 +5,7 @@ namespace Syncify.Domain.AwsEntities;
 
 public partial class Employee
 {
-    public Guid EmployeeId { get; set; }
+    public Guid EmployeeId { get; set; } = Guid.NewGuid();
 
     public string ExternalEmployeeCode { get; set; } = null!;
 

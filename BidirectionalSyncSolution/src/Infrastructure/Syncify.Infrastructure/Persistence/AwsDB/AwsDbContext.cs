@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-
+using Syncify.Domain.AwsEntities;
 namespace Syncify.Infrastructure.Persistence.AwsDB;
 
 public partial class AwsDbContext : DbContext

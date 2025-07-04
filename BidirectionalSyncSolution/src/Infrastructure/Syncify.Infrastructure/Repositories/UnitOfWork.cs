@@ -14,14 +14,26 @@ namespace Syncify.Infrastructure.Repositories
     public class UnitOfWork:IUnitofWork
     {
         private readonly AwsDbContext awscontext;
-        public IGenericRepository<Address> userAddressRepository { get; }
-
+        public IGenericRepository<Department> DepartmentRepository { get; }
+        public IGenericRepository<Project> ProjectRepository { get; }
+        public IGenericRepository<Employee> EmployeeRepository { get; }
+        public IGenericRepository<Address> UserAddressRepository { get; }
         public IGenericRepository<Contact> UserContactRepository { get; }
+        public IGenericRepository<AuditLog> AuditLogRepository { get; }
+        public IGenericRepository<Designation> DesignationRepository { get; }
+        public IGenericRepository<EmployeeProject> EmployeeProjectRepository { get; }
+
         public UnitOfWork(AwsDbContext awscontext)
         {
             this.awscontext = awscontext;
-            userAddressRepository = new GenericRepository<Address>(awscontext);
-            UserContactRepository = new GenericRepository<Contact>(awscontext);  
+            DepartmentRepository = new GenericRepository<Department>(awscontext);
+            ProjectRepository = new GenericRepository<Project>(awscontext);
+            EmployeeRepository = new GenericRepository<Employee>(awscontext);
+            UserAddressRepository = new GenericRepository<Address>(awscontext);
+            UserContactRepository = new GenericRepository<Contact>(awscontext);
+            AuditLogRepository = new GenericRepository<AuditLog>(awscontext); 
+            DesignationRepository = new GenericRepository<Designation>(awscontext);
+            EmployeeProjectRepository = new GenericRepository<EmployeeProject>(awscontext);
         }
 
         

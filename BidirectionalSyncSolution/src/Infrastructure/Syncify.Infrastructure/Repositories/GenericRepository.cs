@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Syncify.Domain.Interface;
@@ -11,14 +10,15 @@ namespace Syncify.Infrastructure.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        private readonly AwsDbContext awscontext;
+        private readonly AwsDbContext awsContext;
         public readonly DbSet<T> dbSet;
-        public GenericRepository(AwsDbContext awscontext)
-        {
-            this.awscontext = awscontext;
-            dbSet = awscontext.Set<T>();
 
+        public GenericRepository(AwsDbContext awsContext)
+        {
+            this.awsContext = awsContext;
+            dbSet = awsContext.Set<T>();
         }
+
         public async Task AddAsync(T entity)
         {
             await dbSet.AddAsync(entity);
@@ -27,7 +27,7 @@ namespace Syncify.Infrastructure.Repositories
         public async Task DeleteAsync(T entity)
         {
             dbSet.Remove(entity);
-            await Task.CompletedTask; 
+            await Task.CompletedTask;
         }
 
         public async Task<T?> FindByIdAsync(Guid id)
@@ -45,6 +45,12 @@ namespace Syncify.Infrastructure.Repositories
         {
             dbSet.Update(entity);
             await Task.CompletedTask;
+        }
+
+        // Implementing FirstOrDefaultAsync
+        public async Task<T?> FirstOrDefaultAsync(Expression<Func<T, bool>> predicate)
+        {
+            return await dbSet.FirstOrDefaultAsync(predicate);
         }
     }
 }

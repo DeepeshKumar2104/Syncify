@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace Syncify.Domain.Interface
@@ -13,5 +12,6 @@ namespace Syncify.Domain.Interface
         Task DeleteAsync(T entity);
         Task<T> FindByIdAsync(Guid id);
         Task<IEnumerable<T>> GetAllAsync();
+        Task<T?> FirstOrDefaultAsync(Expression<Func<T, bool>> predicate); // New method
     }
 }
