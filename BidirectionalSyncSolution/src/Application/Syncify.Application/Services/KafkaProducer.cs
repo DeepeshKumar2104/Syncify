@@ -1,20 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Confluent.Kafka;
+using System;
 using System.Threading.Tasks;
-using Confluent.Kafka;  
 
 namespace Syncify.Application.Services
 {
     public class KafkaProducer
     {
-        private readonly string _bootstrapServers;
+        private readonly string _connectionString;
         private readonly string _topicName;
 
-        public KafkaProducer(string bootstrapServers, string topicName)
+        public KafkaProducer(string connectionString, string topicName)
         {
-            _bootstrapServers = bootstrapServers;
+            _connectionString = connectionString;  // Full Event Hub connection string
             _topicName = topicName;
         }
 
@@ -22,7 +19,11 @@ namespace Syncify.Application.Services
         {
             var config = new ProducerConfig
             {
-                BootstrapServers = _bootstrapServers
+                BootstrapServers = "", // ✅ Only hostname + :9093
+                SecurityProtocol = SecurityProtocol.SaslSsl,                           // ✅ Required
+                SaslMechanism = SaslMechanism.Plain,                                   // ✅ Required
+                SaslUsername = "$ConnectionString",                                    // ✅ Literal string
+                SaslPassword = "" // ✅ Full string with exact punctuation and no modifications
             };
 
             using (var producer = new ProducerBuilder<Null, string>(config).Build())
@@ -30,14 +31,13 @@ namespace Syncify.Application.Services
                 try
                 {
                     var result = await producer.ProduceAsync(_topicName, new Message<Null, string> { Value = message });
-                    Console.WriteLine($"Message sent to {result.TopicPartitionOffset}");
+                    Console.WriteLine($"✅ Message sent to {result.TopicPartitionOffset}");
                 }
                 catch (ProduceException<Null, string> e)
                 {
-                    Console.WriteLine($"Error producing message: {e.Message}");
+                    Console.WriteLine($"❌ Kafka Produce Error: {e.Message}");
                 }
             }
         }
     }
 }
-/////////////////////////

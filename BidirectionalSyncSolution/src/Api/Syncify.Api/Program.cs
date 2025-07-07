@@ -11,8 +11,11 @@ using Syncify.Infrastructure.Persistence.AwsDB;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddScoped<KafkaProducer>(options =>
-    new KafkaProducer("localhost:9092", "employee-topic"));
+builder.Services.AddSingleton<KafkaProducer>(sp =>
+    new KafkaProducer(
+        "",
+        "employeeevents"  // Event Hub name
+    ));
 
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped<IUnitofWork, UnitOfWork>();

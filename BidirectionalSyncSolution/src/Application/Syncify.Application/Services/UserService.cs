@@ -17,7 +17,7 @@ namespace Syncify.Application.Services
         public UserService(IUnitofWork unitofWork)
         {
             this.unitofWork = unitofWork;
-            _kafkaProducer = new KafkaProducer("localhost:9092", "employee-topic");  // Kafka broker and topic name
+            _kafkaProducer = new KafkaProducer("localhost:9092", "employeeevents");  
         }
 
         public async Task<bool> RegisterEmployee(RequestModels models)
